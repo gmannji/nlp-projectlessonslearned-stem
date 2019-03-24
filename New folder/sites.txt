@@ -1,8 +1,0 @@
-https://beckernick.github.io/music_recommender/
-https://www.benfrederickson.com/matrix-factorization/
-https://www.youtube.com/watch?v=h9gpufJFF-0
-https://www.bonaccorso.eu/2017/09/13/a-model-free-collaborative-recommendation-system-in-20-lines-of-python/
-https://medium.com/coinmonks/recommendation-engine-python-401c080c583e
-https://medium.com/@tomar.ankur287/user-user-collaborative-filtering-recommender-system-51f568489727
-https://medium.com/radon-dev/item-item-collaborative-filtering-with-binary-or-unary-data-e8f0b465b2c3
-http://www.salemmarafi.com/code/collaborative-filtering-with-python/
